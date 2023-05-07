@@ -2,7 +2,6 @@
 Simple gif for a certain Turn Based Anime Game
   
 
-  
 - [Noclip](noclip.md)
 
 - [Ability Reduce+Max Energy](Ability%20Reduce%2BMax%20Energy.md)
