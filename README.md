@@ -1,85 +1,36 @@
 # GC_FuncList
 Simple gif for a certain Turn Based Anime Game
-<details>
-  <summary>Noclip</summary>
-  <img src="https://github.com/0kolya0/GC_FuncList/blob/main/gif/No%20Clip.gif"/>
-</details>
 
-<details>
-  <summary>Ability Reduce+Max Energy</summary>
-  <img src="https://github.com/0kolya0/GC_FuncList/blob/main/gif/Ability%20Reduce+Max%20Energy.gif"/>
-</details>
+- [Noclip](noclip.md)
 
-<details>
-  <summary>Auto Cook+Fast Proficiency</summary>
-  <img src="https://github.com/0kolya0/GC_FuncList/blob/main/gif/Ability%20Reduce+Max%20Energy.gif"/>
-</details>
+- [Ability Reduce+Max Energy](Ability%20Reduce%2BMax%20Energy.md)
 
+- [Auto Cook+Fast Proficiency](Auto%20Cook%2BFast%20Proficiency.md)
 
-<details>
-  <summary>Auto Fish</summary>
-  <img src="https://github.com/0kolya0/GC_FuncList/blob/main/gif/Auto%20Fish.gif"/>
-</details>
+- [Auto Fish](Auto%20Fish.md)
 
+- [Auto Loot+ Custom range](Auto%20Loot%2B%20Custom%20range.md)
 
-<details>
-  <summary>Auto Loot+ Custom range</summary>
-  <img src="https://github.com/0kolya0/GC_FuncList/blob/main/gif/Auto%20Loot%2B%20Custom%20range.gif"/>
-</details>
+- [Auto Talk+Fast Dialog+Skip Cutscenes](Auto%20Talk%2BFast%20Dialog%2BSkip%20Cutscenes.md)
 
-<details>
-  <summary>Auto Talk+Fast Dialog+Skip Cutscenes</summary>
-  <img src="https://github.com/0kolya0/GC_FuncList/blob/main/gif/Auto%20Talk%2BFast%20Dialog%2BSkip%20Cutscenes.gif"/>
-</details>
-<details>
-  <summary>Destroy Objects</summary>
-  <img src="https://github.com/0kolya0/GC_FuncList/blob/main/gif/Destroy%20Objects.gif"/>
-</details>
-<details>
-  <summary>Flycloak Modifier</summary>
-  <img src="https://github.com/0kolya0/GC_FuncList/blob/main/gif/Flycloak%20Modifier.gif"/>
-</details>
-<details>
-  <summary>Freeze+Dumb Enemies</summary>
-  <img src="https://github.com/0kolya0/GC_FuncList/blob/main/gif/Freeze%2BDumb%20Enemies.gif"/>
-</details>
+- [Destroy Objects](Destroy%20Objects.md)
 
-<details>
-  <summary>Infinite Stamina</summary>
-  <img src="https://github.com/0kolya0/GC_FuncList/blob/main/gif/Infinite%20Stamina.gif"/>
-</details>
+- [Flycloak Modifier](Flycloak%20Modifier.md)
 
-<details>
-  <summary>Interactive map+ESP</summary>
-  <img src="https://github.com/0kolya0/GC_FuncList/blob/main/gif/Interactive%20map%2BESP.gif"/>
-</details>
+- [Freeze+Dumb Enemies](Freeze%2BDumb%20Enemies.md)
 
-<details>
-  <summary>Kill Aura+Instant Death Mode</summary>
-  <img src="https://github.com/0kolya0/GC_FuncList/blob/main/gif/Kill%20Aura%2BInstant%20Death%20Mode.gif"/>
-</details>
+- [Infinite Stamina](Infinite%20Stamina.md)
 
-<details>
-  <summary>Open Team Immediately</summary>
-  <img src="https://github.com/0kolya0/GC_FuncList/blob/main/gif/Open%20Team%20Immediately.gif"/>
-</details>
+- [Interactive map+ESP](Interactive%20map%2BESP.md)
 
-<details>
-  <summary>Paimon follow</summary>
-  <img src="https://github.com/0kolya0/GC_FuncList/blob/main/gif/Paimon%20follow.gif"/>
-</details>
+- [Kill Aura+Instant Death Mode](Kill%20Aura%2BInstant%20Death%20Mode.md)
 
-<details>
-  <summary>Quest Teleport</summary>
-  <img src="https://github.com/0kolya0/GC_FuncList/blob/main/gif/Quest%20Teleport.gif"/>
-</details>
+- [Open Team Immediately](Open%20Team%20Immediately.md)
 
-<details>
-  <summary>Skin Modifier</summary>
-  <img src="https://github.com/0kolya0/GC_FuncList/blob/main/gif/Skin%20Modifier.gif"/>
-</details>
+- [Paimon follow](Paimon%20follow.md)
 
-<details>
-  <summary>Vacuum Loot</summary>
-  <img src="https://github.com/0kolya0/GC_FuncList/blob/main/gif/Vacuum%20Loot.gif"/>
-</details>
+- [Quest Teleport](Quest%20Teleport.md)
+
+- [Skin Modifier](Skin%20Modifier.md)
+
+- [Vacuum Loot](Vacuum%20Loot.md)
