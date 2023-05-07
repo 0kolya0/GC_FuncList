@@ -1,6 +1,6 @@
 # GC_FuncList
 Simple gif for a certain Turn Based Anime Game
-[Noclip](Noclip.md)
+[Noclip](noclip.md)
 
 <details>
   <summary>Noclip</summary>
