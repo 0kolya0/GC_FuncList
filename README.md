@@ -3,34 +3,34 @@ Simple gif for a certain Turn Based Anime Game
 
 - [Noclip](noclip.md)
 
-- [Ability Reduce+Max Energy](Ability Reduce+Max Energy.md)
+- [Ability Reduce+Max Energy](Ability%20Reduce%2BMax%20Energy.md)
 
-- [Auto Cook+Fast Proficiency](Auto Cook+Fast Proficiency.md)
+- [Auto Cook+Fast Proficiency](Auto%20Cook%2BFast%20Proficiency.md)
 
-- [Auto Fish](Auto Fish.md)
+- [Auto Fish](Auto%20Fish.md)
 
-- [Auto Loot+ Custom range](Auto Loot+ Custom range.md)
+- [Auto Loot+ Custom range](Auto%20Loot%2B%20Custom%20range.md)
 
-- [Auto Talk+Fast Dialog+Skip Cutscenes](Auto Talk+Fast Dialog+Skip Cutscenes.md)
+- [Auto Talk+Fast Dialog+Skip Cutscenes](Auto%20Talk%2BFast%20Dialog%2BSkip%20Cutscenes.md)
 
-- [Destroy Objects](Destroy Objects.md)
+- [Destroy Objects](Destroy%20Objects.md)
 
-- [Flycloak Modifier](Flycloak Modifier.md)
+- [Flycloak Modifier](Flycloak%20Modifier.md)
 
-- [Freeze+Dumb Enemies](Freeze+Dumb Enemies.md)
+- [Freeze+Dumb Enemies](Freeze%2BDumb%20Enemies.md)
 
-- [Infinite Stamina](Infinite Stamina.md)
+- [Infinite Stamina](Infinite%20Stamina.md)
 
-- [Interactive map+ESP](Interactive map+ESP.md)
+- [Interactive map+ESP](Interactive%20map%2BESP.md)
 
-- [Kill Aura+Instant Death Mode](Kill Aura+Instant Death Mode.md)
+- [Kill Aura+Instant Death Mode](Kill%20Aura%2BInstant%20Death%20Mode.md)
 
-- [Open Team Immediately](Open Team Immediately.md)
+- [Open Team Immediately](Open%20Team%20Immediately.md)
 
-- [Paimon follow](Paimon follow.md)
+- [Paimon follow](Paimon%20follow.md)
 
-- [Quest Teleport](Quest Teleport.md)
+- [Quest Teleport](Quest%20Teleport.md)
 
-- [Skin Modifier](Skin Modifier.md)
+- [Skin Modifier](Skin%20Modifier.md)
 
-- [Vacuum Loot](Vacuum Loot.md)
+- [Vacuum Loot](Vacuum%20Loot.md)
