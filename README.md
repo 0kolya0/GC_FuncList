@@ -1,7 +1,7 @@
 # GC_FuncList
 Simple gif for a certain Turn Based Anime Game
 
-- [Noclip](https://github.com/0kolya0/GC_FuncList/blob/main/gif/No%20Clip.gif")
+- [Noclip](https://github.com/0kolya0/GC_FuncList/blob/main/gif/No%20Clip.gif)
 
 - [Noclip](noclip.md)
 
