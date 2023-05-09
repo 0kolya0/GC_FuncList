@@ -1,7 +1,5 @@
-# GC_FuncList
 
-
-<h1 align="center">Simple gif for a certain Turn Based Anime Game</h1>
+<h1 align="center">Simple gif\webm for a certain Turn Based Anime Game</h1>
 
 # Player
 
