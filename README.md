@@ -27,6 +27,8 @@
 
 - [Kill Aura+Instant Death Mode](https://github.com/0kolya0/GC_FuncList/blob/main/gif/Kill%20Aura%2BInstant%20Death%20Mode.gif)
 
+- [Mob Vacuum](https://github.com/0kolya0/GC_FuncList/blob/main/gif/Mob%20Vacuum.gif)
+
 - [Vacuum Loot](https://github.com/0kolya0/GC_FuncList/blob/main/gif/Vacuum%20Loot.gif)
 
 - [Freeze+Dumb Enemies](https://github.com/0kolya0/GC_FuncList/blob/main/gif/Freeze%2BDumb%20Enemies.gif)
