@@ -1,7 +1,7 @@
 # GC_FuncList
 Simple gif for a certain Turn Based Anime Game
 
-- Player
+# Player
 
 - [Attack Effects(Multi-Hit+Custom+RandomElement)](https://github.com/0kolya0/GC_FuncList/blob/main/gif/Attack%20Effects(Multi-Hit%2BCustom%2BRandomElement).gif)
 
@@ -11,7 +11,7 @@ Simple gif for a certain Turn Based Anime Game
 
 - [Noclip](https://github.com/0kolya0/GC_FuncList/blob/main/gif/No%20Clip.gif)
 
-- World
+## World
 
 - [Auto Cook+Fast Proficiency](https://github.com/0kolya0/GC_FuncList/blob/main/gif/Auto%20Cook%2BFast%20Proficiency.gif)
 
@@ -34,15 +34,15 @@ Simple gif for a certain Turn Based Anime Game
 - [Permanent Elemental Sight](https://github.com/0kolya0/GC_FuncList/blob/main/gif/Permanent%20Elemental%20Sight.gif)
 
 
-- Teleport
+## Teleport
 - [Quest Teleport](https://github.com/0kolya0/GC_FuncList/blob/main/gif/Quest%20Teleport.gif)
 
 - [Map Teleport](https://github.com/0kolya0/GC_FuncList/blob/main/gif/Map%20Teleport.gif)
 
-- ESP
+## ESP
 - [Interactive map+ESP](https://github.com/0kolya0/GC_FuncList/blob/main/gif/Interactive%20map%2BESP.gif)
 
-- Visual
+## Visual
 
 - [Flycloak Modifier](https://github.com/0kolya0/GC_FuncList/blob/main/gif/Flycloak%20Modifier.gif)
 
