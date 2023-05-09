@@ -33,6 +33,7 @@ Simple gif for a certain Turn Based Anime Game
 
 - [Permanent Elemental Sight](https://github.com/0kolya0/GC_FuncList/blob/main/gif/Permanent%20Elemental%20Sight.gif)
 
+
 - Teleport
 - [Quest Teleport](https://github.com/0kolya0/GC_FuncList/blob/main/gif/Quest%20Teleport.gif)
 
