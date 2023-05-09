@@ -31,8 +31,12 @@ Simple gif for a certain Turn Based Anime Game
 
 - [Open Team Immediately](https://github.com/0kolya0/GC_FuncList/blob/main/gif/Open%20Team%20Immediately.gif)
 
+- [Permanent Elemental Sight](https://github.com/0kolya0/GC_FuncList/blob/main/gif/Permanent%20Elemental%20Sight.gif)
+
 - Teleport
 - [Quest Teleport](https://github.com/0kolya0/GC_FuncList/blob/main/gif/Quest%20Teleport.gif)
+
+- [Map Teleport](https://github.com/0kolya0/GC_FuncList/blob/main/gif/Map%20Teleport.gif)
 
 - ESP
 - [Interactive map+ESP](https://github.com/0kolya0/GC_FuncList/blob/main/gif/Interactive%20map%2BESP.gif)
