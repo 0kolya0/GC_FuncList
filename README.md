@@ -23,6 +23,8 @@
 
 - [Auto Talk+Fast Dialog+Skip Cutscenes](https://github.com/0kolya0/GC_FuncList/blob/main/gif/Auto%20Talk%2BFast%20Dialog%2BSkip%20Cutscenes.gif)
 
+- [Fake Time](https://github.com/0kolya0/GC_FuncList/blob/main/gif/Fake%20Time.gif)
+
 - [Kill Aura+Instant Death Mode](https://github.com/0kolya0/GC_FuncList/blob/main/gif/Kill%20Aura%2BInstant%20Death%20Mode.gif)
 
 - [Vacuum Loot](https://github.com/0kolya0/GC_FuncList/blob/main/gif/Vacuum%20Loot.gif)
@@ -32,7 +34,6 @@
 - [Open Team Immediately](https://github.com/0kolya0/GC_FuncList/blob/main/gif/Open%20Team%20Immediately.gif)
 
 - [Permanent Elemental Sight](https://github.com/0kolya0/GC_FuncList/blob/main/gif/Permanent%20Elemental%20Sight.gif)
-
 
 ## Teleport
 - [Quest Teleport](https://github.com/0kolya0/GC_FuncList/blob/main/gif/Quest%20Teleport.gif)
