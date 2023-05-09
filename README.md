@@ -1,5 +1,7 @@
 # GC_FuncList
-Simple gif for a certain Turn Based Anime Game
+
+
+<h1 align="center">Simple gif for a certain Turn Based Anime Game</h1>
 
 # Player
 
