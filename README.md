@@ -3,37 +3,34 @@ Simple gif for a certain Turn Based Anime Game
 
 - [Noclip](https://github.com/0kolya0/GC_FuncList/blob/main/gif/No%20Clip.gif)
 
+- [Ability Reduce+Max Energy](https://github.com/0kolya0/GC_FuncList/blob/main/gif/Ability%20Reduce%2BMax%20Energy.gif)
 
-- [Noclip](noclip.md)
+- [Auto Cook+Fast Proficiency](https://github.com/0kolya0/GC_FuncList/blob/main/gif/Auto%20Cook%2BFast%20Proficiency.gif)
 
-- [Ability Reduce+Max Energy](Ability%20Reduce%2BMax%20Energy.md)
+- [Auto Fish](https://github.com/0kolya0/GC_FuncList/blob/main/gif/Auto%20Fish.gif)
 
-- [Auto Cook+Fast Proficiency](Auto%20Cook%2BFast%20Proficiency.md)
+- [Auto Loot+ Custom range](https://github.com/0kolya0/GC_FuncList/blob/main/gif/Auto%20Loot%2B%20Custom%20range.gif)
 
-- [Auto Fish](Auto%20Fish.md)
+- [Auto Talk+Fast Dialog+Skip Cutscenes](https://github.com/0kolya0/GC_FuncList/blob/main/gif/Auto%20Talk%2BFast%20Dialog%2BSkip%20Cutscenes.gif)
 
-- [Auto Loot+ Custom range](Auto%20Loot%2B%20Custom%20range.md)
+- [Destroy Objects](https://github.com/0kolya0/GC_FuncList/blob/main/gif/Destroy%20Objects.gif)
 
-- [Auto Talk+Fast Dialog+Skip Cutscenes](Auto%20Talk%2BFast%20Dialog%2BSkip%20Cutscenes.md)
+- [Flycloak Modifier](https://github.com/0kolya0/GC_FuncList/blob/main/gif/Flycloak%20Modifier.gif)
 
-- [Destroy Objects](Destroy%20Objects.md)
+- [Freeze+Dumb Enemies](https://github.com/0kolya0/GC_FuncList/blob/main/gif/Freeze%2BDumb%20Enemies.gif)
 
-- [Flycloak Modifier](Flycloak%20Modifier.md)
+- [Infinite Stamina](https://github.com/0kolya0/GC_FuncList/blob/main/gif/Infinite%20Stamina.gif)
 
-- [Freeze+Dumb Enemies](Freeze%2BDumb%20Enemies.md)
+- [Interactive map+ESP](https://github.com/0kolya0/GC_FuncList/blob/main/gif/Interactive%20map%2BESP.gif)
 
-- [Infinite Stamina](Infinite%20Stamina.md)
+- [Kill Aura+Instant Death Mode](https://github.com/0kolya0/GC_FuncList/blob/main/gif/Kill%20Aura%2BInstant%20Death%20Mode.gif)
 
-- [Interactive map+ESP](Interactive%20map%2BESP.md)
+- [Open Team Immediately](https://github.com/0kolya0/GC_FuncList/blob/main/gif/Open%20Team%20Immediately.gif)
 
-- [Kill Aura+Instant Death Mode](Kill%20Aura%2BInstant%20Death%20Mode.md)
+- [Paimon follow](https://github.com/0kolya0/GC_FuncList/blob/main/gif/Paimon%20follow.gif)
 
-- [Open Team Immediately](Open%20Team%20Immediately.md)
+- [Quest Teleport](https://github.com/0kolya0/GC_FuncList/blob/main/gif/Quest%20Teleport.gif)
 
-- [Paimon follow](Paimon%20follow.md)
+- [Skin Modifier](https://github.com/0kolya0/GC_FuncList/blob/main/gif/Skin%20Modifier.gif)
 
-- [Quest Teleport](Quest%20Teleport.md)
-
-- [Skin Modifier](Skin%20Modifier.md)
-
-- [Vacuum Loot](Vacuum%20Loot.md)
+- [Vacuum Loot](https://github.com/0kolya0/GC_FuncList/blob/main/gif/Vacuum%20Loot.gif)
